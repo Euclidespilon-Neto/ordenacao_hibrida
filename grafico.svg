@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="470" viewBox="0 0 850 470">
+<rect width="850" height="470" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#334155" font-size="13">
+<text x="425" y="30" text-anchor="middle" font-size="20" font-weight="bold">Tempo por corte — 20.000 elementos</text>
+<line x1="95" y1="380.0" x2="765" y2="380.0" stroke="#e2e8f0"/>
+<line x1="95" y1="317.0" x2="765" y2="317.0" stroke="#e2e8f0"/>
+<line x1="95" y1="254.0" x2="765" y2="254.0" stroke="#e2e8f0"/>
+<line x1="95" y1="191.0" x2="765" y2="191.0" stroke="#e2e8f0"/>
+<line x1="95" y1="128.0" x2="765" y2="128.0" stroke="#e2e8f0"/>
+<line x1="95" y1="65.0" x2="765" y2="65.0" stroke="#e2e8f0"/>
+<line x1="95" y1="380" x2="765" y2="380" stroke="#334155" stroke-width="2"/>
+<line x1="95" y1="65" x2="95" y2="380" stroke="#334155" stroke-width="2"/>
+<text x="95.0" y="402" text-anchor="middle">1</text>
+<text x="178.8" y="402" text-anchor="middle">5</text>
+<text x="262.5" y="402" text-anchor="middle">10</text>
+<text x="346.2" y="402" text-anchor="middle">16</text>
+<text x="430.0" y="402" text-anchor="middle">20</text>
+<text x="513.8" y="402" text-anchor="middle">32</text>
+<text x="597.5" y="402" text-anchor="middle">50</text>
+<text x="681.2" y="402" text-anchor="middle">100</text>
+<text x="765.0" y="402" text-anchor="middle">200</text>
+<text x="82" y="384.0" text-anchor="end">16.6</text>
+<text x="82" y="321.0" text-anchor="end">21.5</text>
+<text x="82" y="258.0" text-anchor="end">26.4</text>
+<text x="82" y="195.0" text-anchor="end">31.3</text>
+<text x="82" y="132.0" text-anchor="end">36.3</text>
+<text x="82" y="69.0" text-anchor="end">41.2</text>
+<line x1="95" y1="290.6" x2="765" y2="290.6" stroke="#64748b" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="765" y="281.6" text-anchor="end">quicksort pura: 23.5732 ms</text>
+<polyline points="95.0,292.4 178.8,315.6 262.5,332.7 346.2,337.5 430.0,341.5 513.8,339.9 597.5,316.7 681.2,257.9 765.0,103.5" fill="none" stroke="#2563eb" stroke-width="3"/>
+<circle cx="95.0" cy="292.4" r="5" fill="#2563eb"/>
+<circle cx="178.8" cy="315.6" r="5" fill="#2563eb"/>
+<circle cx="262.5" cy="332.7" r="5" fill="#2563eb"/>
+<circle cx="346.2" cy="337.5" r="5" fill="#2563eb"/>
+<circle cx="430.0" cy="341.5" r="5" fill="#2563eb"/>
+<circle cx="513.8" cy="339.9" r="5" fill="#2563eb"/>
+<circle cx="597.5" cy="316.7" r="5" fill="#2563eb"/>
+<circle cx="681.2" cy="257.9" r="5" fill="#2563eb"/>
+<circle cx="765.0" cy="103.5" r="5" fill="#2563eb"/>
+<text x="425" y="445" text-anchor="middle" font-size="15">Corte (elementos)</text>
+<text x="23" y="225" text-anchor="middle" transform="rotate(-90 23 225)" font-size="15">Tempo mediano (ms)</text>
+</g></svg>
